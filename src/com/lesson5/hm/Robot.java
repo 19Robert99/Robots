@@ -51,4 +51,12 @@ public class Robot {
         }
     }
 
+    @Override
+    public String toString() {
+        return "Robot{" +
+                "code='" + code + '\'' +
+                ", commitedCode='" + commitedCode + '\'' +
+                ", isCodeWithBug=" + isCodeWithBug +
+                '}';
+    }
 }
