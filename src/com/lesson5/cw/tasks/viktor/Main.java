@@ -34,16 +34,16 @@ public class Main {
             System.out.println(amount);
         }
     }*/
-    public static void main(String[] args) {
-        for (int firstNumber = 1; firstNumber < 10; firstNumber++) {
+    //public static void main(String[] args) {
+        //for (int firstNumber = 1; firstNumber < 10; firstNumber++) {
 //            System.out.println(firstNumber);
 //            System.out.print("\t");
-            for (int secondNumber = 1; secondNumber < 10; secondNumber++) {
+            //for (int secondNumber = 1; secondNumber < 10; secondNumber++) {
 //                secondNumber = firstNumber * secondNumber;
-                System.out.print(firstNumber * secondNumber + "\t");
+               // System.out.print(firstNumber * secondNumber + "\t");
 //                System.out.print("\t");
-            }
-            System.out.println();
-        }
-    }
+            //}
+            //System.out.println();
+        //}
+   // }
 }
